@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amirusmani
 - 👀 I’m interested in coding and solving real world problems
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java and kotlin
 - 💞️ I’m looking to collaborate on some projects to improve my skills
 - 📫 Reach me at amir1997usmani@gmail.com 
 
